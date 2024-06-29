@@ -12,7 +12,7 @@ My experience in the US Navy has led me to develop a passion for cybersecurity a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Audit                                | <a href="https://google.com">Audit</a>|
+| Security Audit                                | <a href="https://github.com/Cassford/Conducting-a-security-audit">Audit</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
@@ -44,5 +44,5 @@ My experience in the US Navy has led me to develop a passion for cybersecurity a
 </div>
 
 ## Projects
-- Conducting a Security Audit
+- <a href="https://github.com/Cassford/Conducting-a-security-audit">Audit</a>
 - SOC Automation Project
