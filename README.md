@@ -12,6 +12,7 @@ My experience in the US Navy has led me to develop a passion for cybersecurity a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Security Audit                                | <a href="https://google.com">Audit</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
