@@ -6,7 +6,7 @@ I am a Cybersecurity enthusiast with a profound interest in technology and a ded
 
 ## Objective
 
-My experience in the US Navy has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an Analyst.
+My experience in the US Navy has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to join an organization's security team as a Cyber Security Analyst.
 
 ## Skills
 
