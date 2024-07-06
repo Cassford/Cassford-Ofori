@@ -12,7 +12,7 @@ My experience in the US Navy has led me to develop a passion for cybersecurity a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Intelligence                           | <a href="https://github.com/Cassford/Quick-Threat-Intelligence-Lab">MITRE ATT&CK Threat Intelligence Lab</a>|
+| Threat Intelligence                           | <a href="https://github.com/Cassford/Quick-Threat-Intelligence-Lab">MITRE ATT&CK Threat Intelligence Mini Lab</a>|
 | Conduting Security Audits | <a href="https://github.com/Cassford/Conducting-a-security-audit">Audit Lab</a>|
 
 ## Tools
@@ -32,6 +32,12 @@ My experience in the US Navy has led me to develop a passion for cybersecurity a
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://i.imgur.com/nMnsgF0.png" />
+
+### Vulnerability Scanners
+<div> 
+    <img src="https://img.shields.io/badge/-Nessus-00A4EF?&style=for-the-badge&logo=Tenable&logoColor=white" />
+
+
 
 </div>
 
