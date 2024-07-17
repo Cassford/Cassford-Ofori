@@ -12,6 +12,7 @@ My experience in the US Navy has led me to develop a passion for cybersecurity a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Generating granular telemetery in Splunk | <a href="https://github.com/Cassford/Generating-Reverse-TCP-Shell-Telemetry-with-Splunk">Reverse TCP shell telemetry in Splunk</a>|
 | Threat Intelligence                           | <a href="https://github.com/Cassford/Quick-Threat-Intelligence-Lab">MITRE ATT&CK Threat Intelligence Mini Lab</a>|
 | Conduting Security Audits | <a href="https://github.com/Cassford/Conducting-a-security-audit">Audit Lab</a>|
 
@@ -49,5 +50,6 @@ My experience in the US Navy has led me to develop a passion for cybersecurity a
 </div>
 
 ## Projects
+- <a href="https://github.com/Cassford/Generating-Reverse-TCP-Shell-Telemetry-with-Splunk">Reverse TCP shell telemetry in Splunk</a>
 - <a href="https://github.com/Cassford/Quick-Threat-Intelligence-Lab">MITRE ATT&CK Threat Intelligence Lab</a>
 - <a href="https://github.com/Cassford/Conducting-a-security-audit">Audit Lab</a>
