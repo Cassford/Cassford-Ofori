@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/cassford-ofori-515909130"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a Cybersecurity enthusiast with a profound interest in technology and a dedication to helping protect organizations from evolving cyber threats. 
+I am a Security Analyst with a profound interest in technology and a dedication to helping protect organizations from evolving cyber threats. 
 
 ## Objective
 
