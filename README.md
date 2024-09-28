@@ -6,7 +6,7 @@ I am a Security Analyst with a profound interest in technology and a dedication 
 
 ## Objective
 
-My experience in the US Navy has led me to develop a passion for cybersecurity and I now  I am specifically aiming to join an organization's security team as a Cyber Security Analyst.
+My experience in the US Navy has led me to develop a passion for cybersecurity and now  I am specifically aiming to join an organization's security team as a Cyber Security Analyst.
 
 ## Skills
 
